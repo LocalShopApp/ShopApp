@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "530087509553",
+    "firebase_url": "https://demoproj-2c69b.firebaseio.com",
+    "project_id": "demoproj-2c69b",
+    "storage_bucket": "demoproj-2c69b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530087509553:android:551721a3f2dfa1145d9f10",
+        "android_client_info": {
+          "package_name": "com.example.pradnya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530087509553-me3d8ctvvrsct2vh1d7el7u17sus7f93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5U1RJgLELuRG1mCX11-OUdhVGlnHSnvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530087509553-me3d8ctvvrsct2vh1d7el7u17sus7f93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
